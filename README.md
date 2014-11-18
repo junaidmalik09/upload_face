@@ -1,5 +1,8 @@
 # Face Detection Module
 
+## Introduction
+https://prezi.com/1eytx-ie-zv7/lms-face-detection-tool/
+
 ## Installation and usage instructions for Linux
 ### Requirements
 
